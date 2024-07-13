@@ -5,10 +5,10 @@ var obj = {
     name: "John Doe",
     age: 30
 }
-var arr = [1,2,3,5,8,11,22]
+var arr = ['hello', 'John', 'mike']
 
-console.log(num);
-console.log(str);
-console.log(bool);
-console.log(obj);
-console.log(arr);
+console.log(typeof(num));
+console.log(typeof(str));
+console.log(typeof(bool));
+console.log(typeof(obj));
+console.log(typeof(arr));
